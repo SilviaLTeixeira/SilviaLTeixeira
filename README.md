@@ -1,7 +1,7 @@
 ### Ola!!! Prazer , eu sou a Silvia
 
 
-- 🔭 Hoje estou em transiçao de carreira e a procura do meu primeiro trabalho como desenvolvedora
+- 🔭 Hoje estou a procura de uma oportunidade de trabalho na area de desenvolvimento
 - 🌱 Estudando Java atualmente 
 <div align="center">
   <a href="https://github.com/SilviaLTeixeira">
