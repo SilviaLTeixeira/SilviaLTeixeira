@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou a procura de uma oportunidade de trabalho na area de desenvolvimento
-- 🌱 Estudando Java atualmente 
+- 🌱 Estudando testes unitários atualmente 
 <div align="center">
   <a href="https://github.com/SilviaLTeixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilviaLTeixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
