@@ -1,8 +1,7 @@
 ### Ola!!! Prazer , eu sou a Silvia
 
 
-- 🔭 Hoje estou a procura de uma oportunidade de trabalho na area de desenvolvimento
-- 🌱 Estudando SCSS atualmente 
+- 🔭 Hoje trabalho na Gesplan e faço o programa desenvolve da boticario
 <div align="center">
   <a href="https://github.com/SilviaLTeixeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilviaLTeixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
